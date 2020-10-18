@@ -1,4 +1,4 @@
-package com.joaodartora.generics.typeparameter;
+package com.joaodartora.generics.classes;
 
 public class Data<T> {
 
