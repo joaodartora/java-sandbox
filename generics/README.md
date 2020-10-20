@@ -4,6 +4,8 @@
 
 ### Overview of Generics
 
+- Generics are a facility of generic programming that were added to the Java programming language in 2004 within version 5.
+- They were designed to extend Java's type system to allow "a type or method to operate on objects of various types while providing compile-time type safety"
 - Increase code **reusability**
 - Avoid ClassCastException using Object type
 - Only can be used on instances, not on static context
